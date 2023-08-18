@@ -7,7 +7,7 @@
 
 ## Redes Sociais
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](www.linkedin.com/in/alanmachado-dev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/machado.ft/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=fff)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](www.linkedin.com/in/alanmachado-dev/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/machado.ft/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=fff)]()
 
 ## Linguagens
 <div style="display: inline_block"><br>
