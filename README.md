@@ -1,15 +1,16 @@
-# Olá! eu sou o Alan Machado 👋🏻
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil+do+GitHub!+:%29)](https://git.io/typing-svg)
+<h1>
+    <span>Alan Machado</span>
+</h1>
 
-### Meu nome é Alan sou de Guarulhos - SP, sou desenvolvedor FullStack Jr, estou ingressando na área de tecnologia.
-### Atualmente cursando Análise e Desenvolvimento de Sistemas na FATEC Guarulhos.
+<p align="justify">Meu nome é Alan sou de Guarulhos - SP, sou desenvolvedor FullStack Jr, estou ingressando na área de tecnologia.
+<br> Atualmente cursando Análise e Desenvolvimento de Sistemas na FATEC Guarulhos. </a>.</p>
 
+<h3 align="left">Redes Sociais</h3>
 
-## Redes Sociais
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FFFF&color:FFF)](https://www.linkedin.com/in/alanmachado-dev)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00FFFF&color:FFF)](https://www.instagram.com/machado.ft/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/alanmachado-dev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/machado.ft/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=fff)]()
-
-## Linguagens
+<h3 align="left">Linguagens</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Alan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,7 +20,7 @@
   <img align="center" alt="Alan-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 </div>
 
-## Ferramentas
+## Ferramentas 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
@@ -28,7 +29,7 @@
 
 ## GitHub Stats
 
-![Alan Machado's GitHub stats](https://github-readme-stats.vercel.app/api?username=1amAlan&theme=tokyonight&_icons=true&hide_title=true)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=1amAlan&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=00FFFF&text_color=00FFFF&border_radius=3&border_color=00FFFF&icon_color=00FFFFF&theme=dark)
 
 
 
